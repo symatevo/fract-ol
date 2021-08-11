@@ -8,7 +8,7 @@ You can check [wiki-pages](https://github.com/VBrazhnik/Fract-ol/wiki) if you wa
 
 But here is my [wiki](../../wiki/). I translated **in English**.
 
-There is a good tutorial for [Minilibx](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html) library
+Tutorial for [Minilibx](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html) library
 
 ## my_fractals
 
