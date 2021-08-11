@@ -1,6 +1,10 @@
 # fract-ol
 
 Fract'ol is a School 42 project. The purpose of this project is to create fractal renderer.
+For writing this project
+1. Read wiki page
+2. Read about minilibx library
+3. Start code, Good luck
 
 ## Wiki
 
