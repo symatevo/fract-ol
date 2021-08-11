@@ -14,6 +14,6 @@ But here is my [wiki](../../wiki/). I translated **in English**.
 
 Tutorial for [Minilibx](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html) library
 
-## my_fractals
+
 
 
