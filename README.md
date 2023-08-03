@@ -1,7 +1,3 @@
-# Fractol
-
-The "Fractol" project is an exciting project at 42 that challenges you to create a program to visualize and explore various fractal patterns. The goal is to build an interactive graphical application that allows users to zoom, pan, and change parameters to explore different fractals.
-
 ## Summary
 
 In this project, you are required to create a program that can generate and display various fractal patterns. The program should provide an interactive graphical interface that allows users to zoom in/out, pan, and change parameters to explore the fractals in real-time.
